@@ -1,0 +1,364 @@
+@import url('https://v1.fontapi.ir/css/Vazir');
+
+
+
+
+
+
+
+
+@font-face {
+    font-family: 'amiri';
+    src: url(fonts/amiri.tff) format('tff');
+  }
+
+@font-face {
+    font-family: 'amiribold';
+    src: url(fonts/amiribold.tff) format('tff');
+  }
+@font-face {
+    font-family: 'amiriitalic';
+    src: url(fonts/amiriitalic.tff) format('tff');
+  }
+
+@font-face {
+    font-family: 'amiriitalicbold';
+    src: url(fonts/amiriitalicbold.tff) format('tff');
+  }
+@font-face {
+    font-family: 'andalus';
+    src: url(fonts/amiriitalic.tff) format('tff');
+  }
+
+@font-face {
+    font-family: 'arshia';
+    src: url(fonts/amiriitalicbold.tff) format('tff');
+  }
+@font-face {
+    font-family: 'badr';
+    src: url(fonts/badr.tff) format('tff');
+  }
+
+@font-face {
+    font-family: 'baran';
+    src: url(fonts/baran.tff) format('tff');
+  }
+@font-face {
+    font-family: 'bardiya';
+    src: url(fonts/bardiya.tff) format('tff');
+  }
+@font-face {
+    font-family: 'compset';
+    src: url(fonts/compset.tff) format('tff');
+  }
+
+@font-face {
+    font-family: 'davat';
+    src: url(fonts/davat.tff) format('tff');
+  }
+@font-face {
+    font-family: 'droidkufi';
+    src: url(fonts/droidkufi.tff) format('tff');
+  }
+@font-face {
+    font-family: 'droidkufibold';
+    src: url(fonts/droidkufibold.tff) format('tff');
+  }
+@font-face {
+    font-family: 'droidnaskh';
+    src: url(fonts/droidnaskh.tff) format('tff');
+  }
+@font-face {
+    font-family: 'droidnaskhbold';
+    src: url(fonts/droidnaskhbold.tff) format('tff');
+  }
+@font-face {
+    font-family: 'elham';
+    src: url(fonts/elham.tff) format('tff');
+  }
+
+
+/*esfehanbold*/
+@font-face {
+    font-family: 'esfehanbold';
+    src: url(fonts/esfehanbold.tff) format('tff');
+  }
+
+/*fantezy*/
+@font-face {
+    font-family: 'fantezy';
+    src: url(fonts/fantezy.tff) format('tff');
+  }
+/*Far_Chini*/
+@font-face {
+    font-family: 'Far_Chini';
+    src: url(fonts/Far_Chini.tff) format('tff');
+  }
+/*farnaz*/  
+  @font-face {
+    font-family: 'farnaz';
+    src: url(fonts/farnaz.tff) format('tff');
+  }
+/*ferdosi*/
+@font-face {
+    font-family: 'ferdosi';
+    src: url(fonts/ferdosi.tff) format('tff');
+  }
+/*  
+hamid
+@font-face {
+    font-family: 'amiri';
+    src: url(fonts/amiri.tff) format('tff');
+  }
+helal
+@font-face {
+    font-family: 'amiri';
+    src: url(fonts/amiri.tff) format('tff');
+  }
+homa
+@font-face {
+    font-family: 'amiri';
+    src: url(fonts/amiri.tff) format('tff');
+  }
+iraniansans
+@font-face {
+    font-family: 'amiri';
+    src: url(fonts/amiri.tff) format('tff');
+  }
+jadidbold
+@font-face {
+    font-family: 'amiri';
+    src: url(fonts/amiri.tff) format('tff');
+  }
+jalal
+@font-face {
+    font-family: 'amiri';
+    src: url(fonts/amiri.tff) format('tff');
+  }
+kamran
+@font-face {
+    font-family: 'amiri';
+    src: url(fonts/amiri.tff) format('tff');
+  }
+koodakbold
+@font-face {
+    font-family: 'amiri';
+    src: url(fonts/amiri.tff) format('tff');
+  }
+kouroshbold.eot
+@font-face {
+    font-family: 'amiri';
+    src: url(fonts/amiri.tff) format('tff');
+  }
+kouroshbold.woff
+@font-face {
+    font-family: 'amiri';
+    src: url(fonts/amiri.tff) format('tff');
+  }
+lateef
+@font-face {
+    font-family: 'amiri';
+    src: url(fonts/amiri.tff) format('tff');
+  }
+lotus
+@font-face {
+    font-family: 'amiri';
+    src: url(fonts/amiri.tff) format('tff');
+  }
+mahsa
+@font-face {
+    font-family: 'amiri';
+    src: url(fonts/amiri.tff) format('tff');
+  }
+mehrbold
+@font-face {
+    font-family: 'amiri';
+    src: url(fonts/amiri.tff) format('tff');
+  }
+mitra
+@font-face {
+    font-family: 'amiri';
+    src: url(fonts/amiri.tff) format('tff');
+  }
+morvarid
+@font-face {
+    font-family: 'amiri';
+    src: url(fonts/amiri.tff) format('tff');
+  }
+narm
+@font-face {
+    font-family: 'amiri';
+    src: url(fonts/amiri.tff) format('tff');
+  }
+nasimbold
+@font-face {
+    font-family: 'amiri';
+    src: url(fonts/amiri.tff) format('tff');
+  }
+nazanin
+@font-face {
+    font-family: 'amiri';
+    src: url(fonts/amiri.tff) format('tff');
+  }
+roya
+@font-face {
+    font-family: 'amiri';
+    src: url(fonts/amiri.tff) format('tff');
+  }
+scheherazade
+@font-face {
+    font-family: 'amiri';
+    src: url(fonts/amiri.tff) format('tff');
+  }
+
+shiraz
+@font-face {
+    font-family: 'amiri';
+    src: url(fonts/amiri.tff) format('tff');
+  }
+sinabold
+@font-face {
+    font-family: 'amiri';
+    src: url(fonts/amiri.tff) format('tff');
+  }
+tabassom
+@font-face {
+    font-family: 'amiri';
+    src: url(fonts/amiri.tff) format('tff');
+  }
+tawfig
+@font-face {
+    font-family: 'amiri';
+    src: url(fonts/amiri.tff) format('tff');
+  }
+tehran
+@font-face {
+    font-family: 'amiri';
+    src: url(fonts/amiri.tff) format('tff');
+  }
+thabit
+@font-face {
+    font-family: 'amiri';
+    src: url(fonts/amiri.tff) format('tff');
+  }
+thabitbold
+@font-face {
+    font-family: 'amiri';
+    src: url(fonts/amiri.tff) format('tff');
+  }
+thabititalic
+@font-face {
+    font-family: 'amiri';
+    src: url(fonts/amiri.tff) format('tff');
+  }
+thabititalicbold
+@font-face {
+    font-family: 'amiri';
+    src: url(fonts/amiri.tff) format('tff');
+  }
+titrbold
+@font-face {
+    font-family: 'amiri';
+    src: url(fonts/amiri.tff) format('tff');
+  }
+titrtgebold
+@font-face {
+    font-family: 'amiri';
+    src: url(fonts/amiri.tff) format('tff');
+  }
+traffic
+@font-face {
+    font-family: 'amiri';
+    src: url(fonts/amiri.tff) format('tff');
+  }
+vahidbold
+@font-face {
+    font-family: 'amiri';
+    src: url(fonts/amiri.tff) format('tff');
+  }
+Vazir-Black
+@font-face {
+    font-family: 'amiri';
+    src: url(fonts/amiri.tff) format('tff');
+  }
+Vazir-Bold
+@font-face {
+    font-family: 'amiri';
+    src: url(fonts/amiri.tff) format('tff');
+  }
+Vazir-Light
+@font-face {
+    font-family: 'amiri';
+    src: url(fonts/amiri.tff) format('tff');
+  }
+Vazir-Medium
+@font-face {
+    font-family: 'amiri';
+    src: url(fonts/amiri.tff) format('tff');
+  }
+Vazir-Regular
+@font-face {
+    font-family: 'amiri';
+    src: url(fonts/amiri.tff) format('tff');
+  }
+Vazir-Thin
+@font-face {
+    font-family: 'amiri';
+    src: url(fonts/amiri.tff) format('tff');
+  }
+
+@font-face {
+    font-family: 'Vazir-Variable';
+    src: url(fonts/Vazir-Variable.tff) format('tff');
+  }
+
+@font-face {
+    font-family: 'yas';
+    src: url(fonts/yas.tff) format('tff');
+  }
+*/
+
+/*setarehbold*/
+@font-face {
+    font-family: 'setarehbold';
+    src: url(fonts/setarehbold.tff) format('tff');
+  }
+
+
+
+@font-face {
+    font-family: 'yagut';
+    src: url(fonts/yagut.tff) format('tff');
+  }
+@font-face {
+    font-family: 'yekan';
+    src: url(fonts/yekan.tff) format('tff');
+  } 
+  
+@font-face {
+    font-family: 'zar';
+    src: url(fonts/zar.tff) format('tff');
+  }
+
+
+
+@font-face {
+    font-family: 'ziba';
+    src: url(fonts/ziba.tff) format('tff');
+  }
+
+
+
+
+
+
+
+
+
+*{
+    /*font-family: 'Vazir','Roboto', sans-serif;*/ 
+    font-family:'bardiya','Roboto', sans-serif;
+    
+    font-weight: 100;
+    font-style: normal;
+}

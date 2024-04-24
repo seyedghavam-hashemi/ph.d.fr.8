@@ -1,0 +1,212 @@
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Protest+Riot&display=swap');
+
+
+
+.p-en{
+    font-family: 'Roboto', sans-serif;
+   
+  }
+
+
+  .parag-intro-p{
+    font-size: 3.5vh;
+   font-weight: bolder;
+    color:rgba(255, 255, 255, 2);
+    line-height: 3.5vh;
+    
+  }
+
+  .font-top-text{
+    font-family: 'fantezy';
+  }
+  .h3-btn{
+    /*position: relative;
+    top: 11vh;*/
+    text-align: center;
+    
+  }
+  .dh3{
+    height: 5vh;
+    margin-bottom: vh;
+  }
+  
+  .parag-f-p {
+    font-family: 'ziba';
+    font-weight: bolder;
+    font-style: normal;
+    color:rgb(255, 255, 255);
+    font-size: 3vh;
+    line-height: 3vh;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+
+    }
+    .parag-f-e {
+        font-family: 'Protest Riot', sans-serif;
+        font-weight: bolder;
+        font-style: normal;
+        /*color:rgb(255, 255, 255);*/
+        font-size: 3vh;
+        line-height: 3vh;
+        }
+    .parag-li {
+        font-family: "Vazir";
+        font-weight: bolder;
+        font-style: normal;
+        color:rgb(255, 255, 255);
+        font-size: 3vh;
+        line-height: 3vh;
+        display: inline;
+        }
+
+
+        #gh_phd{
+            
+            font-size: 4vh;
+            font-family: 'Protest Riot', sans-serif;
+          
+            
+           
+          }
+
+
+
+
+  @import url("https://fonts.googleapis.com/css?family=Nixie+One");
+@import url("https://fonts.googleapis.com/css?family=League+Script");
+.question_text {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.sign {
+/*  -ms-transform: rotate(-3deg);
+  -webkit-transform: rotate(-3deg);
+  transform: rotate(-3deg);*/
+}
+
+/*.title_1 {
+  font-size: 110px;
+}*/
+.trav {
+  -webkit-animation: blink 0.01s infinite alternate;
+  -moz-animation: blink 0.01s infinite alternate;
+  -o-animation: blink 0.01s infinite alternate;
+  animation: blink 0.01s infinite alternate;
+}
+.fade {
+  opacity: 0.8;
+  color: #ebffff;
+  text-shadow: 2px 2px 1px rgba(0,0,0,0.3), 0 0px 15px #fff, 0 0 10px #38eeff, 0 0 50px #38eeff;
+  -webkit-animation: fade 3s infinite alternate;
+  -moz-animation: fade 3s infinite alternate;
+  -o-animation: fade 3s infinite alternate;
+  animation: fade 3s infinite alternate;
+}
+.neon-blue {
+  margin: 0 auto;
+  text-align: center;
+  color: #000;
+  font-weight: 600;
+  text-shadow: 2px 2px 1px rgba(0,0,0,0.3), 0 0px 15px #fff, 0 0 10px #38eeff, 0 0 50px #38eeff;
+}
+.neon-purple {
+  font-family: 'League Script', Helvetica, Arial, sans-serif;
+  font-size: 100px;
+  margin: 0 auto;
+  text-align: center;
+  color: #ccf;
+  text-shadow: 2px 2px 1px rgba(0,0,0,0.5), 0 0 20px #fff, 0 0 10px #7d26cd, 0 0 50px #7d26cd;
+}
+@-moz-keyframes blink {
+  70% {
+    opacity: 0.7;
+  }
+}
+@-webkit-keyframes blink {
+  45% {
+    opacity: 0.5;
+  }
+}
+@-o-keyframes blink {
+  70% {
+    opacity: 0.7;
+  }
+}
+@keyframes blink {
+  70% {
+    opacity: 0.7;
+  }
+}
+@-moz-keyframes fade {
+  40% {
+    opacity: 0.8;
+  }
+  42% {
+    opacity: 0.1;
+  }
+  43% {
+    opacity: 0.8;
+  }
+  45% {
+    opacity: 0.1;
+  }
+  46% {
+    opacity: 0.8;
+  }
+}
+@-webkit-keyframes fade {
+  40% {
+    opacity: 0.8;
+  }
+  42% {
+    opacity: 0.1;
+  }
+  43% {
+    opacity: 0.8;
+  }
+  45% {
+    opacity: 0.1;
+  }
+  46% {
+    opacity: 0.8;
+  }
+}
+@-o-keyframes fade {
+  40% {
+    opacity: 0.8;
+  }
+  42% {
+    opacity: 0.1;
+  }
+  43% {
+    opacity: 0.8;
+  }
+  45% {
+    opacity: 0.1;
+  }
+  46% {
+    opacity: 0.8;
+  }
+}
+@keyframes fade {
+  40% {
+    opacity: 0.8;
+  }
+  42% {
+    opacity: 0.1;
+  }
+  43% {
+    opacity: 0.8;
+  }
+  45% {
+    opacity: 0.1;
+  }
+  46% {
+    opacity: 0.8;
+  }
+}
